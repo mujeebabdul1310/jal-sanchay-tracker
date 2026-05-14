@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "661480914659",
+    "project_id": "jal-sanchay-4c67c",
+    "storage_bucket": "jal-sanchay-4c67c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:661480914659:android:12a948b24b61ad3bc88fd6",
+        "android_client_info": {
+          "package_name": "com.jalsanchay.tracker"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjTJoO_jW8_eN_8JSNGCn63R8NUpsj-Vc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
