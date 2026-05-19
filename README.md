@@ -22,14 +22,31 @@ Enter your roof area and daily rainfall — watch your *Water Wealth* grow.
 
 ## 📸 Screenshots
 
-| Login | Dashboard | Log Rainfall | History |
-|:-----:|:---------:|:------------:|:-------:|
 | ## Login Screen
 
 ![Login Screen](https://raw.githubusercontent.com/mujeebabdul1310/jal-sanchay-tracker/9c1d9600ced373a3dc46e2cf62760a9a49876411/login%20screen.jpeg)( | ![Dashboard](screenshots/dashboard.png) | ![Log](screenshots/log.png) | ![History](screenshots/history.png) |
 
-| Report | Tips | Profile | Setup |
-|:------:|:----:|:-------:|:-----:|
+## Sign Up Screen
+![Sign Up Screen](https://raw.githubusercontent.com/mujeebabdul1310/jal-sanchay-tracker/6ec9b17b462340c424cbe50c6a60b0fecbd361ce/sign%20up%20screen.jpeg)
+
+## Dashboard Screen
+![Dashboard Screen](https://raw.githubusercontent.com/mujeebabdul1310/jal-sanchay-tracker/6ec9b17b462340c424cbe50c6a60b0fecbd361ce/dashboard%20screen.jpeg)
+
+## History Screen
+![History Screen](https://raw.githubusercontent.com/mujeebabdul1310/jal-sanchay-tracker/6ec9b17b462340c424cbe50c6a60b0fecbd361ce/history.jpeg)
+
+## Input Field Screen
+![Input Field Screen](https://raw.githubusercontent.com/mujeebabdul1310/jal-sanchay-tracker/6ec9b17b462340c424cbe50c6a60b0fecbd361ce/input%20field.jpeg)
+
+## Rainfall Log Screen
+![Rainfall Log Screen](https://raw.githubusercontent.com/mujeebabdul1310/jal-sanchay-tracker/6ec9b17b462340c424cbe50c6a60b0fecbd361ce/rainfall%20log%20screen.jpeg)
+
+## Profile Screen
+![Profile Screen](https://raw.githubusercontent.com/mujeebabdul1310/jal-sanchay-tracker/6ec9b17b462340c424cbe50c6a60b0fecbd361ce/profile%20screen.jpeg)
+
+## Water Harvest Tip Screen
+![Water Harvest Tip Screen](https://raw.githubusercontent.com/mujeebabdul1310/jal-sanchay-tracker/6ec9b17b462340c424cbe50c6a60b0fecbd361ce/wter%20harvest%20tip.jpeg)
+
 | ![Report](screenshots/report.png) | ![Tips](screenshots/tips.png) | ![Profile](screenshots/profile.png) | ![Setup](screenshots/setup.png) |
 
 > **Note:** To add screenshots, place images in a `screenshots/` folder in the project root.
