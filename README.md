@@ -24,7 +24,9 @@ Enter your roof area and daily rainfall — watch your *Water Wealth* grow.
 
 | Login | Dashboard | Log Rainfall | History |
 |:-----:|:---------:|:------------:|:-------:|
-| ![Login](screenshots/login.png) | ![Dashboard](screenshots/dashboard.png) | ![Log](screenshots/log.png) | ![History](screenshots/history.png) |
+| ## Login Screen
+
+![Login Screen](https://raw.githubusercontent.com/mujeebabdul1310/jal-sanchay-tracker/9c1d9600ced373a3dc46e2cf62760a9a49876411/login%20screen.jpeg)( | ![Dashboard](screenshots/dashboard.png) | ![Log](screenshots/log.png) | ![History](screenshots/history.png) |
 
 | Report | Tips | Profile | Setup |
 |:------:|:----:|:-------:|:-----:|
