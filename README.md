@@ -47,12 +47,6 @@ Enter your roof area and daily rainfall — watch your *Water Wealth* grow.
 ## Water Harvest Tip Screen
 ![Water Harvest Tip Screen](https://raw.githubusercontent.com/mujeebabdul1310/jal-sanchay-tracker/6ec9b17b462340c424cbe50c6a60b0fecbd361ce/wter%20harvest%20tip.jpeg)
 
-| ![Report](screenshots/report.png) | ![Tips](screenshots/tips.png) | ![Profile](screenshots/profile.png) | ![Setup](screenshots/setup.png) |
-
-> **Note:** To add screenshots, place images in a `screenshots/` folder in the project root.
-
----
-
 ## ✨ Features
 
 | Feature | Description |
